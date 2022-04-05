@@ -1,4 +1,4 @@
-import "./navbar/navbar.scss"
+import "./navbar.scss"
 
 import { ArrowDropDown, LaptopWindows, Notifications, Search } from "@material-ui/icons";
 
